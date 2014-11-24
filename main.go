@@ -17,6 +17,10 @@ var rikers = []string{
 	"http://i.imgur.com/E9xIncq.gif",
 	"http://i.imgur.com/hCcuFRm.gif",
 	"http://i.imgur.com/Axc9V1j.gif",
+	"http://i.imgur.com/IfvmW70.gif",
+	"http://i.imgur.com/YlZi4eh.gif",
+	"http://i.imgur.com/6QmCW8a.gif",
+	"http://i.imgur.com/YllnBUZ.gif",
 }
 
 func main() {
